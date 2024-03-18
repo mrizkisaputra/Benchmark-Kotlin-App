@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kotlin App Benchmark</string>
+    <string name="task_completed">Task Completed</string>
+    <string name="loading">Loading Benchmark %d %%</string>
+</resources>
